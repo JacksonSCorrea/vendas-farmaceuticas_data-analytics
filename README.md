@@ -2,8 +2,8 @@ Análise de Vendas Farmacêuticas:
 Uma visão geral das vendas de medicamentos.
 
 Este projeto contempla a Análise Exploratória dos dados de vendas farmacêuticas.
-O Conjunto de Dados foi extraído da Plataformade Dados Abertos do Governo Federal,
-e pode aser acessada pelo link:
+O Conjunto de Dados foi extraído da Plataforma de Dados Abertos do Governo Federal,
+e pode ser acessada pelo link:
 https://dados.gov.br/dados/conjuntos-dados/venda-de-medicamentos-controlados-e-antimicrobianos---medicamentos-industrializados
 
 No projeto, foi considerado o mês de novembro de 2021.
