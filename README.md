@@ -15,3 +15,7 @@ insights valiosos para o negócio.
 Também foram gerados mapas interativos com a biblioteca Folium.
 Os mapas mostram as etiquetas para as cidades, estados e regiões, informando
 percentual de vendas e medicamentos mais vendidos.
+
+Paraa criação da máscara dos estados através da biblioteca, foi utilizado um arquivo GeoJSON,
+contendo as informações geográficas de cada estado. O arquivo GeoJSON foi extraído
+do repositório do usuário Emerson Rocha: https://github.com/fititnt/gis-dataset-brasil/tree/master/uf/geojson
