@@ -13,5 +13,5 @@ Em seguida, a Análise foi realizada e, através da visualização de gráficos,
 insights valiosos para o negócio.
 
 Também foram gerados mapas interativos com a biblioteca Folium.
-Os mapas mostrar as etiquetas das cidades, estados e regiões, informando
+Os mapas mostram as etiquetas para as cidades, estados e regiões, informando
 percentual de vendas e medicamentos mais vendidos.
